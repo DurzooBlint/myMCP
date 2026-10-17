@@ -1,0 +1,51 @@
+PONumber,IssueDate,DeliveryDateRequested,Status,VendorName,ItemID,Quantity,TotalEstimatedCost,UnitPrice,TotalPrice,EstimatedTax,Currency,Description
+PO-2026-8042,8/10/26,8/15/26,Approved,Apex Tech Solutions LLC,SKU-9923,1,4815,4500,4500,315,USD,Enterprise Cloud Analytics License (Annual)
+PO-2026-8043,8/11/26,8/16/26,Approved,Verdant Grid,SKU-9932,12,5431.5,450,5400,31.5,USD,OmniLens Go
+PO-2026-8044,8/12/26,8/17/26,Pending Approval,GeneVibe Labs,SKU-9950,5,1008.93,199,995,13.93,USD,ZenPulse Band
+PO-2026-8045,8/13/26,8/18/26,Approved,Bloom & Burlap Co.,SKU-9926,30,7216.8,240,7200,16.8,USD,AuraWear Shift Jacket
+PO-2026-8046,8/14/26,8/19/26,Approved,Meridian Ventures,SKU-9957,12,277.61,23,276,1.61,USD,StrataWeave Scarf
+PO-2026-8047,8/15/26,8/20/26,Incomplete,QuantumCore Technologies,SKU-9928,50,100089.93,1999,99950,139.93,USD,Quantum CPU 34-x45
+PO-2026-8048,8/16/26,8/21/26,Approved,NovaThread Systems,SKU-9962,300,3600.84,12,3600,0.84,USD,HydroBoost Cubes
+PO-2026-8049,8/17/26,8/22/26,Approved,TerraEco Solutions,SKU-9930,25,275.77,11,275,0.77,USD,NovaThread Patch
+PO-2026-8050,8/18/26,8/23/26,Approved,ApexByte Analytics,SKU-9931,50,28439.76,568,28400,39.76,USD,StrataGlasses
+PO-2026-8051,8/19/26,8/24/26,Approved,Verdant Grid,SKU-9932,24,10831.5,450,10800,31.5,USD,OmniLens Go
+PO-2026-8052,8/20/26,8/25/26,Pending Approval,StrataWave Labs,SKU-9933,5,4056,800,4000,56,USD,Power converters
+PO-2026-8053,8/21/26,8/26/26,Approved,UrbanNourish Foods,SB01,1000,9000.63,9,9000,0.63,USD,SolisBrew Concentrate
+PO-2026-8054,8/22/26,8/27/26,Approved,Kinetix Gear,SKU-9935,56,616.77,11,616,0.77,USD,AeroLoft Pack
+PO-2026-8055,8/23/26,8/28/26,Approved,GeneVibe Labs,SKU-9964,200,6802.38,34,6800,2.38,USD,AeroBreathe Filter
+PO-2026-8056,8/24/26,8/29/26,Approved,LuminaBio Therapeutics,SKU-9937,20,1786.23,89,1780,6.23,USD,First Aid Kits
+PO-2026-8057,8/25/26,8/30/26,Incomplete,Aeon Environmental,SKU-9938,500,4000.56,8,4000,0.56,USD,VitaCrunch Clusters
+PO-2026-8058,8/26/26,8/31/26,Approved,Bloom & Burlap Co.,SKU-9939,100,2101.47,21,2100,1.47,USD,Hats
+PO-2026-8059,8/27/26,9/1/26,Approved,Aeon Environmental,SKU-9940,2,15525,7500,15000,525,USD,GeneVibe Pod
+PO-2026-8060,8/28/26,9/2/26,Approved,Kinetix Gear,SKU-9935,56,616.77,11,616,0.77,USD,AeroLoft Pack
+PO-2026-8061,8/29/26,9/3/26,Approved,ApexByte Analytics,45671,20,3993.93,199,3980,13.93,USD,Data Sciencie kit licenses
+PO-2026-8062,8/30/26,9/4/26,Approved,Verdant Grid,SKU-9943,100,4503.15,45,4500,3.15,USD,Power cables
+PO-2026-8063,8/31/26,9/5/26,Pending Approval,LuminaBio Therapeutics,SKU-9944,5,1008.93,199,995,13.93,USD,Vitalis Sleep Mat
+PO-2026-8064,9/1/26,9/6/26,Incomplete,NovaThread Systems,SKU-9962,100,1200.84,12,1200,0.84,USD,HydroBoost Cubes
+PO-2026-8065,9/2/26,9/7/26,Approved,StrataWave Labs,SKU-9972,4,13068.77,3211,12844,224.77,USD,SyncWave Node
+PO-2026-8066,9/3/26,9/8/26,Approved,QuantumCore Technologies,SKU-9928,50,100089.93,1999,99950,139.93,USD,Quantum CPU 34-x45
+PO-2026-8067,9/4/26,9/9/26,Approved,TerraEco Solutions,SKU-9948,30,39060.93,1299,38970,90.93,USD,Desks
+PO-2026-8068,9/5/26,9/10/26,Incomplete,Kinetix Gear,SKU-9949,2,8280,4000,8000,280,USD,Smart gates
+PO-2026-8069,9/6/26,9/11/26,Approved,GeneVibe Labs,SKU-9950,10,2003.93,199,1990,13.93,USD,ZenPulse Band
+PO-2026-8070,9/7/26,9/12/26,Approved,ApexByte Analytics,SKU-9951,5,3042,600,3000,42,USD,Software Licenses
+PO-2026-8071,9/8/26,9/13/26,Approved,LuminaBio Therapeutics,SKU-9952,10,2003.93,199,1990,13.93,USD,Vitalis Sleep Mat
+PO-2026-8072,9/9/26,9/14/26,Pending Approval,Bloom & Burlap Co.,SKU-9971,350,8401.68,24,8400,1.68,USD,TerraEco Brick
+PO-2026-8073,9/10/26,9/15/26,Approved,Verdant Grid,SKU-9932,45,20281.5,450,20250,31.5,USD,OmniLens Go
+PO-2026-8074,9/11/26,9/16/26,Approved,Kinetix Gear,SKU-9931,30,18042,600,18000,42,USD,StrataGlasses
+PO-2026-8075,9/12/26,9/17/26,Incomplete,StrataWave Labs,KL-ie-09,80,2722.38,34,2720,2.38,USD,IR emmiter
+PO-2026-8076,9/13/26,9/18/26,Approved,Meridian Ventures,SKU-9957,50,1151.61,23,1150,1.61,USD,StrataWeave Scarf
+PO-2026-8077,9/14/26,9/19/26,Approved,QuantumCore Technologies,UW-d-123,5,623.61,123,615,8.61,USD,Ultra Wide splitter joiner
+PO-2026-8078,9/15/26,9/20/26,Approved,Aeon Environmental,SKU-9938,76,3423.15,45,3420,3.15,USD,VitaCrunch Clusters
+PO-2026-8079,9/16/26,9/21/26,Approved,GeneVibe Labs,SKU-9960,35,1963.92,56,1960,3.92,USD,AeroBreathe Filter
+PO-2026-8080,9/17/26,9/22/26,Pending Approval,LuminaBio Therapeutics,SKU-9961,9,1097.47,121,1089,8.47,USD,Chronos Minimalist
+PO-2026-8081,9/18/26,9/23/26,Approved,NovaThread Systems,SKU-9962,300,3600.84,12,3600,0.84,USD,HydroBoost Cubes
+PO-2026-8082,9/19/26,9/24/26,Pending Approval,Bloom & Burlap Co.,SKU-9926,50,12016.8,240,12000,16.8,USD,AuraWear Shift Jacket
+PO-2026-8083,9/20/26,9/25/26,Approved,Meridian Ventures,SKU-9964,5,45624.93,8999,44995,629.93,USD,GeneVibe Pod
+PO-2026-8084,9/21/26,9/26/26,Incomplete,TerraEco Solutions,SKU-9930,25,300.84,12,300,0.84,USD,NovaThread Patch
+PO-2026-8085,9/22/26,9/27/26,Approved,Kinetix Gear,SKU-9935,45,360.56,8,360,0.56,USD,AeroLoft Pack
+PO-2026-8086,9/23/26,9/28/26,Approved,QuantumCore Technologies,UW-d-123,5,618.54,122,610,8.54,USD,Ultra Wide splitter joiner
+PO-2026-8087,9/24/26,9/29/26,Pending Approval,NovaThread Systems,SKU-9931,20,12142.35,605,12100,42.35,USD,StrataGlasses
+PO-2026-8088,9/25/26,9/30/26,Approved,GeneVibe Labs,23908,2,41397.93,19999,39998,1399.93,USD,Gene manipulator
+PO-2026-8089,9/26/26,10/1/26,Approved,ApexByte Analytics,45671,10,5035,500,5000,35,USD,Data Sciencie kit licenses
+PO-2026-8090,9/27/26,10/2/26,Approved,Bloom & Burlap Co.,SKU-9971,800,19201.68,24,19200,1.68,USD,TerraEco Brick
+PO-2026-8091,9/28/26,10/3/26,Approved,Verdant Grid,SKU-9972,12,41315.61,3423,41076,239.61,USD,SyncWave Node
